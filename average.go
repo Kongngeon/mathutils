@@ -1,4 +1,4 @@
-package github.com/Kongngeon/mathutils
+package mathutils
 
 func Average(input []float64) float64 {
 	sum := 0.0
