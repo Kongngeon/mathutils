@@ -1,4 +1,4 @@
-package mathutils
+package github.com/Kongngeon/mathutils
 
 import "testing"
 
